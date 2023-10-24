@@ -1,7 +1,5 @@
 ![Visualization-project-using-public-data](https://github.com/AsellaS2/Visualization-project-using-public-data/assets/69001369/6ca8da41-633c-4883-9038-b33260f91c43)
-해주세요_-001.png)
-# Visualization-project-using-public-data
-공공데이터를 활용한 시각화 프로젝트로 2019공공데이터 분석 시각화 우수상 입상 프로젝트
+
 
 - 서울시 초등학교 위치데이터 (2019년 기준) 🏢
 - 서울시 CCTV & 안전 비상벨 위치데이터 (2019년 기준) 📸
