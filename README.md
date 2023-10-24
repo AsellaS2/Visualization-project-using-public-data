@@ -1,4 +1,5 @@
-![Visualization-project-using-public-data](https://github.com/AsellaS2/Visualization-project-using-public-data/assets/69001369/6ca8da41-633c-4883-9038-b33260f91c43)
+
+![](https://github.com/AsellaS2/Visualization-project-using-public-data/assets/69001369/d5e3afb8-916d-4b7f-a91c-57afa75fd35b)
 
 
 - 서울시 초등학교 위치데이터 (2019년 기준) 🏢
