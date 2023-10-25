@@ -5,7 +5,7 @@
 
 ---
 
-### 분석 배경
+###분석 배경
 
 ![image](https://github.com/AsellaS2/Visualization-project-using-public-data/assets/69001369/d7b2236a-9026-463b-af24-36959a48ab9d)
   
