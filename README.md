@@ -1,5 +1,6 @@
 
 ![](https://github.com/AsellaS2/Visualization-project-using-public-data/assets/69001369/d5e3afb8-916d-4b7f-a91c-57afa75fd35b)
+<img src="https://img.shields.io/badge/R-75AADB?style=for-the-badge&logo=Rstudio&logoColor=white">
 ---
 ### 분석 배경
 
