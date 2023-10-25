@@ -8,7 +8,7 @@
 ### 분석 배경
 
 <p align="center">
-  ![image](https://github.com/AsellaS2/Visualization-project-using-public-data/assets/69001369/d7b2236a-9026-463b-af24-36959a48ab9d)
+  <img src="https://github.com/AsellaS2/Visualization-project-using-public-data/assets/69001369/d7b2236a-9026-463b-af24-36959a48ab9d">
 </p>
   
 - 2014년부터 성범죄는 지속적으로 증가 중 📈
