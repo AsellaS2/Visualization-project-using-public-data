@@ -1,7 +1,7 @@
 
 ![](https://github.com/AsellaS2/Visualization-project-using-public-data/assets/69001369/d5e3afb8-916d-4b7f-a91c-57afa75fd35b)
-<center><img src="https://img.shields.io/badge/R-75AADB?style=plastic&logo=Rstudio&logoColor=white"></center>
-<center><img src="https://img.shields.io/badge/leaflet-199900?style=plastic&logo=/LeaFlet&logoColor=white"></center>
+<p align="center"><img src="https://img.shields.io/badge/R-75AADB?style=plastic&logo=Rstudio&logoColor=white">
+<img src="https://img.shields.io/badge/leaflet-199900?style=plastic&logo=/LeaFlet&logoColor=white"></p>
 ---
 ### 분석 배경
 
